@@ -138,6 +138,8 @@
     } else {
       [self clearEffects];
     }
+  } else {
+      [self clearEffects];
   }
 }
 
